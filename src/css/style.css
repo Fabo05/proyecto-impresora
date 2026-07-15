@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+*{
+    font-family: "Black Ops One", system-ui;
+}
+
+.mi_titulo{
+     font-family: "Gravitas One", serif;
+}
