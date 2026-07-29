@@ -5,6 +5,7 @@ const flowbitePlugin = require('flowbite/plugin');
 module.exports = {
   content: [
     "./index.html",
+    "./src/pages/**/*.html",
     "./src/**/*.{js,ts,jsx,tsx}",
     "./node_modules/flowbite/**/*.js"
   ],
